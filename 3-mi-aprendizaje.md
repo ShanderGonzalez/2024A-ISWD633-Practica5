@@ -1,4 +1,4 @@
-# COMPLETAR  
+# APRENDIZAJE OBTENIDO 
 A lo largo de esta práctica, he tenido la oportunidad de contrastar mis conocimientos previos con los nuevos aprendizajes, observando una mejora notable en áreas clave para mi desarrollo profesional. Al inicio, mi comprensión sobre la configuración e implementación de servicios con Docker Compose era básica, y solo tenía una noción general sobre la gestión de volúmenes y redes en contenedores Docker.
 
 Durante la práctica, me adentré en el uso de Docker Compose, aprendiendo a configurar servicios interdependientes como SonarQube y otros más familiares como PostgreSQL. Logré establecer una comunicación efectiva entre diferentes servicios utilizando una red tipo bridge y a implementar medidas de seguridad y estabilidad del sistema mediante healthchecks, garantizando la disponibilidad de los servicios.
