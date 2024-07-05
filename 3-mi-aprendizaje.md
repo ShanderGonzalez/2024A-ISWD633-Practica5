@@ -1,3 +1,6 @@
 # COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+A lo largo de esta práctica, he tenido la oportunidad de contrastar mis conocimientos previos con los nuevos aprendizajes, observando una mejora notable en áreas clave para mi desarrollo profesional. Al inicio, mi comprensión sobre la configuración e implementación de servicios con Docker Compose era básica, y solo tenía una noción general sobre la gestión de volúmenes y redes en contenedores Docker.
+
+Durante la práctica, me adentré en el uso de Docker Compose, aprendiendo a configurar servicios interdependientes como SonarQube y otros más familiares como PostgreSQL. Logré establecer una comunicación efectiva entre diferentes servicios utilizando una red tipo bridge y a implementar medidas de seguridad y estabilidad del sistema mediante healthchecks, garantizando la disponibilidad de los servicios.
+
+Enfrenté un desafío técnico al probar el primer archivo "compose.yaml", que indicaba que la versión era obsoleta. Para resolver esto, eliminé la etiqueta de la versión y corregí los volúmenes añadiendo las "{}" faltantes. Una vez superados estos problemas, los contenedores funcionaron correctamente. Esta configuración inicial fue crucial para evitar problemas al abordar el segundo ejercicio.
